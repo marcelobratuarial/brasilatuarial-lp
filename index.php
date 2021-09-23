@@ -85,7 +85,7 @@
               </div>
               <!--/.bg-holder-->
 
-              <div class="col-sm-10 col-xxl-7 z-index-1">
+              <div class="col-sm-10 col-xxl-7 z-index-1 text-center text-white">
                 <!-- <h1 class="font-weight-light fs-3 fs-lg-4 fs-xl-5 text-white">We are boots'4</h1>
                 <p class="fs-1 fs-xl-2 text-white mt-2" style="line-height: 1.2; opacity: 0.7;">For over 20 years we’ve worked with
                   <br class="d-none d-lg-block">companies all around the globe.</p>
@@ -94,8 +94,8 @@
                   <a class="btn btn-link text-white mt-3 mt-sm-0 pl-0" href="#portfolio">See works<span class="ml-2 fas fa-chevron-right"></span></a>
                 </div> -->
                 <img class="w-75 w-sm-50" src="assets/img/logo.png" alt="">
-                <h1 class="font-weight-medium mt-4 fs-3 fs-sm-4">Mais benefícios para <br> seus associados<span class="text-success">.</span></h1>
-                <p class="lead mt-3 text-900 fs-0 text-center">Aumente suas vendas e fidelize seus associados
+                <h1 class="font-weight-medium  text-white mt-4 fs-3 fs-sm-4">Mais benefícios para <br> seus associados<span class="text-success">.</span></h1>
+                <p class="lead mt-3 text-white fs-0 text-center">Aumente suas vendas e fidelize seus associados
                   <br class="d-none d-sm-block d-lg-none d-xl-block">concedendo benefícios relevantes.</p>
                 <a class="btn btn-primary btn-lg rounded-capsule mt-4" href="#contact"> Faça uma cotação</a>
                 <!--p class="text-500 mt-2">ir para o site</p-->
