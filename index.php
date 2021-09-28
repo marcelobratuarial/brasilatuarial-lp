@@ -185,20 +185,20 @@
                     <div class="col-md-6 pl-3 pl-md-4">
                       <!-- <h4>To Infinity and Beyond!</h4> -->
                       <!-- <p class="lead my-3">At Boots4, we believe there is a way where customers are earned rather than bought. We're obsessively passionate about it, and our mission is to help you achieve it. </p> -->
-                      <p class="column-xxl-2 ">
+                      <p class="">
                         Com o intuito de melhorar os processos e alcançar os objetivos da entidade, a gestão de
                         risco contribui para a antecipação aos riscos, através de adoção de medidas que
                         reduzam o número de incertezas que podem se materializar em problemas e minimizar
                         o efeito daquelas que venham a ocorrer. Desta forma, uma boa gestão de risco significa
                         tentar evitar perdas, tentar diminuir a frequência ou a severidade de perdas.
                       </p>
-                      <p class="column-xxl-2 ">
+                      <p class="">
                         Os riscos existem e podem tornar o seu negócio vulnerável. A origem dos riscos pode
                         ser <strong>externa</strong>, como por exemplo mudança de comportamento dos associados e
                         concorrentes, mudança tecnológica, novas leis e regulações, ou <strong>interna</strong>, que surgem
                         dentro da estrutura da Entidade.
                       </p>
-                      <p class="column-xxl-2 ">
+                      <p class="">
                         Veja alguns exemplos de riscos envolvidos na operação de uma entidade autogestão de
                         planos contra riscos patrimoniais e que podem ser identificados, analisados, tratados,
                         minimizados e monitorados:
@@ -215,13 +215,13 @@
                         <li>Risco operacional</li>
 
                       </ul>
-                      <p class="column-xxl-2 ">
+                      <p class="">
                         Portanto, a Brasil Atuarial Consultoria contribui para uma gestão de risco embasada na
                         adoção de melhores práticas operacionais e mercadológicas, através do planejamento,
                         identificação, análise qualitativa, análise quantitativa, proposta de medidas estratégias
                         e monitoramento.
                       </p>
-                      <p class="column-xxl-2 ">
+                      <p class="">
                         Acreditamos que antecipar e gerenciar os riscos é a melhor forma de proporcionar
                         segurança à entidade como um todo.
                       </p>
@@ -392,14 +392,14 @@
                     <div class="col-md-6 pl-3 pl-md-4">
                       <!-- <h4>To Infinity and Beyond!</h4> -->
                       <!-- <p class="lead my-3">At Boots4, we believe there is a way where customers are earned rather than bought. We're obsessively passionate about it, and our mission is to help you achieve it. </p> -->
-                      <p class="column-xxl-2 ">
+                      <p class="">
                         O primeiro passo para o crescimento da entidade é uma boa gestão financeira. Tendo
                         em vista que essa atividade objetiva utilizar da melhor maneira possível os recursos
                         disponíveis. Além de fornecer os recursos para análise de diversos cenários e possibilitar
                         definir metas para que a entidade melhore seus resultados e forma como utiliza seus
                         recursos.
                       </p>
-                      <p class="column-xxl-2 ">
+                      <p class="">
                         O primeiro passo da gestão financeira será a realização da análise financeira. Esse
                         serviço oferecido pela Brasil Atuarial Consultoria, apura e acompanha a evolução dos
                         custos com base no plano de contas padrão, seguindo as boas práticas de gestão. A
@@ -409,11 +409,11 @@
                         a apuração dos indicadores de desempenho, análise de break-even e outras
                         informações financeiras relevantes para o negócio.
                       </p>
-                      <p class="column-xxl-2 ">
+                      <p class="">
                         A análise financeira e de suma importância para análise de liquidez e solvência da
                         entidade.
                       </p>
-                      <p class="column-xxl-2 ">
+                      <p class="">
                         Ainda dentro da gestão financeira, os seguintes serviços são contemplados:
                       </p>
                       <ul>
@@ -429,7 +429,7 @@
                           carteiras.</li>
 
                       </ul>
-                      <p class="column-xxl-2 ">
+                      <p class="">
                         Acreditamos que através dessas ações calculas e estrategicamente desenvolvidas, a
                         entidade poderá melhorar seus resultados e a forma que usa seus recursos.
                       </p>
@@ -632,21 +632,21 @@
                     <div class="col-md-6 pl-3 pl-md-4">
                       <!-- <h4>To Infinity and Beyond!</h4> -->
                       <!-- <p class="lead my-3">At Boots4, we believe there is a way where customers are earned rather than bought. We're obsessively passionate about it, and our mission is to help you achieve it. </p> -->
-                      <p class="column-xxl-2 ">
+                      <p class="">
                       Uma forma de otimizar processos e tonar mais eficaz a gestão de um negócio, além de 
                       contribuir para a entidade tomar melhores decisões, definir metas e obter melhores 
                       resultados é através da gestão estratégica.
                       </p>
-                      <p class="column-xxl-2 ">
+                      <p class="">
                       Uma forma de otimizar processos e tonar mais eficaz a gestão de um negócio, além de 
                       contribuir para a entidade tomar melhores decisões, definir metas e obter melhores 
                       resultados é através da gestão estratégica.
                       </p>
-                      <!-- <p class="column-xxl-2 ">
+                      <!-- <p class="">
                         A análise financeira e de suma importância para análise de liquidez e solvência da
                         entidade.
                       </p>
-                      <p class="column-xxl-2 ">
+                      <p class="">
                         Ainda dentro da gestão financeira, os seguintes serviços são contemplados:
                       </p> -->
                       <ul>
@@ -659,7 +659,7 @@
                         <li>Precificação: Avaliação da estrutura e metodologia de composição de preços.</li>
 
                       </ul>
-                      <p class="column-xxl-2 ">
+                      <p class="">
                       A gestão estratégia iniciar pelo diagnóstico geral, traçando um panorama da situação 
                       atual. Em seguida, são elencadas os pontos críticos e propostas de soluções juntamente 
                       com os respectivos gestores. Nesta fase, envolve pesquisa de novas ferramentas que 
@@ -747,35 +747,35 @@
                     <div class="col-md-6 pl-3 pl-md-4">
                       <!-- <h4>To Infinity and Beyond!</h4> -->
                       <!-- <p class="lead my-3">At Boots4, we believe there is a way where customers are earned rather than bought. We're obsessively passionate about it, and our mission is to help you achieve it. </p> -->
-                      <p class="column-xxl-2 ">
+                      <p class="">
                       Com uso da matemática financeira, teoria das probabilidades e estatística para estimar 
                       o acontecimento de determinados eventos e os valores associados a eles, a avaliação 
                       atuarial é considerada uma das principais soluções oferecidas pela Brasil Atuarial 
                       Consultoria, tendo como objetivo manter o equilíbrio atuarial e financeiro da operação.</p>
-                      <p class="column-xxl-2 ">
+                      <p class="">
                       A análise atuarial consiste na <strong>análise técnica-atuarial da carteira</strong>, através da análise de 
                       exposição e apuração de diversos indicadores essenciais para auxiliar na tomada de 
                       decisões estratégicas para obter melhoria contínua de resultado operacional e 
                       performance.</p>
-                      <p class="column-xxl-2 ">
+                      <p class="">
                       Através deste serviço é possível realizar a <strong>apuração rateio</strong>, afim de identificar a melhor 
                       metodologia aderente às características da base através de testes de adequação, 
                       pesquisa de mercado e simulações do modelo. Após definida a metodologia, a Brasil 
                       Atuarial oferece todo o suporte técnico e operacional na implementação do rateio e 
                       acompanhamento mensal.</p>
-                      <p class="column-xxl-2 ">
+                      <p class="">
                       Com base na apuração do rateio e em conjunto com a análise financeira da entidade é 
                       apurado o <strong>valor da contribuição mensal</strong> do plano para adequação dos valores 
                       praticados da carteira.</p>
-                      <p class="column-xxl-2 ">
+                      <p class="">
                       Ainda, oferecemos uma modelagem de cálculo para a <strong>constituição de reserva</strong> aplicada 
                       às entidades de autogestão. Essa reserva é constituída previamente para resguardar o 
                       momento que os eventos ocorridos superem as contribuições mensais.</p>
-                      <p class="column-xxl-2 ">
+                      <p class="">
                       Importante ressaltar que esses trabalhos podem ser realizados com base na própria 
                       experiência estatística da entidade ou na <strong>experiência do mercado</strong>, este último é 
                       utilizado principalmente para quando a entidade planeja expandir sua área de atuação.</p>
-                      <p class="column-xxl-2 ">
+                      <p class="">
                       Em suma, segue os principais trabalhos que são considerados dentro da Avaliação 
                       Atuarial:</p>
 
