@@ -97,7 +97,7 @@
               <img class="the-logo w-75 w-sm-50" src="assets/img/logo.png" alt="">
               <h1 style="text-shadow: 2px 2px 1px rgb(0 0 0);" class="font-weight-medium  text-white mt-4 fs-3 fs-sm-4">Mais gestão de risco e controle financeiro <br> <span class="text-success">na sua Entidade Mutualista.</span></h1>
               <p class="lead mt-3 text-white fs-1 text-center">Transformando dados em informação de forma a proporcionar 
-                <br class="d-none d-sm-block d-lg-none d-xl-block">melhores tomadas de decisões.
+              melhores tomadas de decisões<br class="d-none d-sm-block d-lg-none d-xl-block">
               </p>
               <a class="btn btn-primary btn-lg rounded-capsule mt-4" href="#contact"> Faça uma cotação</a>
               <!--p class="text-500 mt-2">ir para o site</p-->
