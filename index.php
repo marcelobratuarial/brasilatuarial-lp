@@ -94,10 +94,10 @@
                   <a class="btn btn-outline-light mr-3" href="#contact">Get a quote</a>
                   <a class="btn btn-link text-white mt-3 mt-sm-0 pl-0" href="#portfolio">See works<span class="ml-2 fas fa-chevron-right"></span></a>
                 </div> -->
-              <img class="w-75 w-sm-50" src="assets/img/logo.png" alt="">
-              <h1 class="font-weight-medium  text-white mt-4 fs-3 fs-sm-4">Mais benefícios para <br> seus associados<span class="text-success">.</span></h1>
-              <p class="lead mt-3 text-white fs-0 text-center">Aumente suas vendas e fidelize seus associados
-                <br class="d-none d-sm-block d-lg-none d-xl-block">concedendo benefícios relevantes.
+              <img class="the-logo w-75 w-sm-50" src="assets/img/logo.png" alt="">
+              <h1 style="text-shadow: 2px 2px 1px rgb(0 0 0);" class="font-weight-medium  text-white mt-4 fs-3 fs-sm-4">Mais gestão de risco e controle financeiro <br> <span class="text-success">na sua Entidade Mutualista.</span></h1>
+              <p class="lead mt-3 text-white fs-1 text-center">Transformando dados em informação de forma a proporcionar 
+                <br class="d-none d-sm-block d-lg-none d-xl-block">melhores tomadas de decisões.
               </p>
               <a class="btn btn-primary btn-lg rounded-capsule mt-4" href="#contact"> Faça uma cotação</a>
               <!--p class="text-500 mt-2">ir para o site</p-->
@@ -393,45 +393,26 @@
                       <!-- <h4>To Infinity and Beyond!</h4> -->
                       <!-- <p class="lead my-3">At Boots4, we believe there is a way where customers are earned rather than bought. We're obsessively passionate about it, and our mission is to help you achieve it. </p> -->
                       <p class="text-justify ">
-                        O primeiro passo para o crescimento da entidade é uma boa gestão financeira. Tendo
-                        em vista que essa atividade objetiva utilizar da melhor maneira possível os recursos
-                        disponíveis. Além de fornecer os recursos para análise de diversos cenários e possibilitar
-                        definir metas para que a entidade melhore seus resultados e forma como utiliza seus
-                        recursos.
+                        O primeiro passo para o crescimento da entidade é uma boa gestão financeira. Tendo em vista que essa atividade objetiva utilizar da melhor maneira possível os recursos disponíveis. Além de fornecer os recursos para análise de diversos cenários e possibilitar definir metas para que a entidade melhore seus resultados e forma como utiliza seus recursos.
                       </p>
                       <p class="text-justify ">
-                        O primeiro passo da gestão financeira será a realização da análise financeira. Esse
-                        serviço oferecido pela Brasil Atuarial Consultoria, apura e acompanha a evolução dos
-                        custos com base no plano de contas padrão, seguindo as boas práticas de gestão. A
-                        análise financeira, além de apurar o resultado da operação, possibilita melhor
-                        entendimento acerca da participação de cada centro de custos e, consequentemente,
-                        auxilia na formação do valor da contribuição mensal dos planos. Aqui também incluem
-                        a apuração dos indicadores de desempenho, análise de break-even e outras
-                        informações financeiras relevantes para o negócio.
+                        O início da gestão financeira se dá pela realização da análise financeira. Esse serviço oferecido pela Brasil Atuarial Consultoria, apura e acompanha a evolução dos custos com base no plano de contas padrão, seguindo as boas práticas de gestão. A análise financeira, além de apurar o resultado da operação, possibilita melhor entendimento acerca da participação de cada centro de custos e, consequentemente, auxilia na formação do valor da contribuição mensal dos planos. Aqui também incluem a apuração dos indicadores de desempenho, análise de break-even e outras informações financeiras relevantes para o negócio.
                       </p>
                       <p class="text-justify ">
-                        A análise financeira e de suma importância para análise de liquidez e solvência da
-                        entidade.
+                      A análise financeira e de suma importância para análise de liquidez e solvência da entidade.
                       </p>
                       <p class="text-justify ">
-                        Ainda dentro da gestão financeira, os seguintes serviços são contemplados:
+                      Veja os principais serviços que também fazem parte da gestão financeira:
                       </p>
                       <ul>
-                        <li>Planejamento orçamentário: Análise da situação financeira atual para construção de
-                          orçamento baseado em metodologia de trabalho previamente implantada e metas
-                          do planejamento estratégico definidas;</li>
-                        <li>Estudos de viabilidade: Avaliação da viabilidade e sustentabilidade de determinada
-                          operação relacionada diretamente com os serviços oferecidos pela entidade, tais
-                          como: Implantação de central de atendimento e Viabilidade de implantação ou
-                          alteração da regra de rastreamento;
+                        <li>Planejamento orçamentário: Análise da situação financeira atual para construção de orçamento baseado em metodologia de trabalho previamente implantada e metas do planejamento estratégico definidas;</li>
+                        <li>Estudos de viabilidade: Avaliação da viabilidade e sustentabilidade de determinada operação relacionada diretamente com os serviços oferecidos pela entidade, tais como: Implantação de central de atendimento e Viabilidade de implantação ou alteração da regra de rastreamento;
                         </li>
-                        <li>Alienação de Carteira: Estudos e avaliações para a aquisição ou a transferência de
-                          carteiras.</li>
+                        <li>Alienação de Carteira: Estudos e avaliações para a aquisição ou a transferência de carteiras.</li>
 
                       </ul>
                       <p class="text-justify ">
-                        Acreditamos que através dessas ações calculas e estrategicamente desenvolvidas, a
-                        entidade poderá melhorar seus resultados e a forma que usa seus recursos.
+                      Acreditamos que através dessas ações calculadas e estrategicamente desenvolvidas, a entidade poderá melhorar seus resultados e a forma que usa seus recursos.
                       </p>
                     </div>
                   </div>
@@ -633,14 +614,10 @@
                       <!-- <h4>To Infinity and Beyond!</h4> -->
                       <!-- <p class="lead my-3">At Boots4, we believe there is a way where customers are earned rather than bought. We're obsessively passionate about it, and our mission is to help you achieve it. </p> -->
                       <p class="text-justify ">
-                      Uma forma de otimizar processos e tonar mais eficaz a gestão de um negócio, além de 
-                      contribuir para a entidade tomar melhores decisões, definir metas e obter melhores 
-                      resultados é através da gestão estratégica.
+                      Uma forma de otimizar processos e tonar mais eficaz a gestão de um negócio, além de contribuir para a entidade tomar melhores decisões, definir metas e obter melhores resultados é através da gestão estratégica.
                       </p>
                       <p class="text-justify ">
-                      Uma forma de otimizar processos e tonar mais eficaz a gestão de um negócio, além de 
-                      contribuir para a entidade tomar melhores decisões, definir metas e obter melhores 
-                      resultados é através da gestão estratégica.
+                      Neste sentindo, a Brasil Atuarial Consultoria contribui na condução do negócio seguindo estratégias passando principalmente pelas seguintes áreas:
                       </p>
                       <!-- <p class="text-justify ">
                         A análise financeira e de suma importância para análise de liquidez e solvência da
@@ -651,20 +628,14 @@
                       </p> -->
                       <ul>
                         <li>Operacional: Avaliação dos fluxos e processos;</li>
-                        <li>Distribuição: Avaliação e reestruturação das principais políticas de distribuição da 
-                        entidade, tais como: remuneração, inadimplência, retenção e manutenção dos 
-                        contratos de adesão.
+                        <li>Distribuição: Avaliação e reestruturação das principais políticas de distribuição da entidade, tais como: remuneração, inadimplência, retenção e manutenção dos contratos de adesão.
                         </li>
                         <li>Produto: tipos e estrutura dos planos, e</li>
                         <li>Precificação: Avaliação da estrutura e metodologia de composição de preços.</li>
 
                       </ul>
                       <p class="text-justify ">
-                      A gestão estratégia iniciar pelo diagnóstico geral, traçando um panorama da situação 
-                      atual. Em seguida, são elencadas os pontos críticos e propostas de soluções juntamente 
-                      com os respectivos gestores. Nesta fase, envolve pesquisa de novas ferramentas que 
-                      podem ser utilizadas, capacitação de equipe, busca por inovação, realização de 
-                      benchmarking para avaliar a concorrência e o mercado.
+                      A gestão estratégia inicia pelo diagnóstico geral, traçando um panorama da situação atual. Em seguida, são elencados os pontos críticos e as propostas de soluções juntamente com os respectivos gestores. Nesta fase, envolve também pesquisa de novas ferramentas que podem ser utilizadas, capacitação de equipe, busca por inovação, realização de benchmarking para avaliar a concorrência e o mercado.
                       </p>
                     </div>
                   </div>

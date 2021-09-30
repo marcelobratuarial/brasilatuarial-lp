@@ -14632,13 +14632,17 @@ a.text-secondary:hover, a.text-secondary:focus {
 }
 
 .text-success {
-  color: #7ed321 !important;
+  color: #2E7AD8 !important;
 }
 
 a.text-success:hover, a.text-success:focus {
-  color: #569117 !important;
+  color: #2E7AD8 !important;
 }
 
+.the-logo {
+  -webkit-filter: drop-shadow(1px 1px 0px #fff);
+  filter: drop-shadow(1px 1px 0px #fff);
+}
 .text-info {
   color: #00d6ff !important;
 }
