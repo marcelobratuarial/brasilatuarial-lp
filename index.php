@@ -27,9 +27,9 @@
   <meta name="theme-color" content="#ffffff">
   <meta property="og:url" content="//brasilbeneficios.club" />
   <!--<meta property="og:type"               content="article" />-->
-  <meta property="og:title" content="Clube Brasil Benefícios" />
+  <!-- <meta property="og:title" content="Clube Brasil Benefícios" />
   <meta property="og:description" content="Clube Brasil Benefícios" />
-  <meta property="og:image" content="http://brasilbeneficios.club/assets/img/favicons/braben/og-logo.png" />
+  <meta property="og:image" content="http://brasilbeneficios.club/assets/img/favicons/braben/logo.png" /> -->
   <!--<meta property="og:image" itemprop="image" content="/assets/img/favicons/braben/apple-icon-180x180.png">-->
   <!--<link rel="apple-touch-icon" sizes="180x180" href="assets/img/favicons/apple-touch-icon.png">-->
   <!--<link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicons/favicon-32x32.png">-->
@@ -58,7 +58,7 @@
 
     @media screen and (max-width: 900px) {
       .bg-holder {
-        display: none;
+        /* display: none; */
       }
     }
   </style>
@@ -94,12 +94,12 @@
                   <a class="btn btn-outline-light mr-3" href="#contact">Get a quote</a>
                   <a class="btn btn-link text-white mt-3 mt-sm-0 pl-0" href="#portfolio">See works<span class="ml-2 fas fa-chevron-right"></span></a>
                 </div> -->
-              <img class="the-logo w-75 w-sm-50" src="assets/img/logo.png" alt="">
-              <h1 style="text-shadow: 2px 2px 1px rgb(0 0 0);" class="font-weight-medium  text-white mt-4 fs-3 fs-sm-4">Mais gestão de risco e controle financeiro <br> <span class="text-success">na sua Entidade Mutualista.</span></h1>
+              <img class="the-logo w-75 w-sm-60" src="assets/img/logo-prata.png" alt="">
+              <h1 style="text-shadow: 2px 2px 1px rgb(0 0 0);" class="font-weight-medium  text-white mt-4 fs-2 fs-xl-2 fs-lg-2 fs-md-2 fs-xs-2 fs-sm-2">Mais gestão de risco e controle financeiro <br> <span class="text-success">na sua Entidade Mutualista.</span></h1>
               <p class="lead mt-3 text-white fs-1 text-center">Transformando dados em informação de forma a proporcionar 
               melhores tomadas de decisões<br class="d-none d-sm-block d-lg-none d-xl-block">
               </p>
-              <a class="btn btn-primary btn-lg rounded-capsule mt-4" href="#contact"> Faça uma cotação</a>
+              <a class="btn btn-primary rounded-capsule mt-4" href="#contact"> Contrate nossos serviços</a>
               <!--p class="text-500 mt-2">ir para o site</p-->
             </div>
           </div>
@@ -323,7 +323,7 @@
                 </div>
               </div>
             </div>
-            <!-- end of .container-->
+            end of .container
 
           </section> -->
           <!-- <section> close ============================-->
