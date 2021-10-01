@@ -95,7 +95,7 @@
                   <a class="btn btn-link text-white mt-3 mt-sm-0 pl-0" href="#portfolio">See works<span class="ml-2 fas fa-chevron-right"></span></a>
                 </div> -->
               <img class="the-logo w-75 w-sm-60" src="assets/img/logo-prata.png" alt="">
-              <h1 style="text-shadow: 2px 2px 1px rgb(0 0 0);" class="font-weight-medium  text-white mt-4 fs-2 fs-xl-2 fs-lg-2 fs-md-2 fs-xs-2 fs-sm-2">Mais gestão de risco e controle financeiro <br> <span class="text-success">na sua Entidade Mutualista.</span></h1>
+              <h1 style="text-shadow: 2px 2px 1px rgb(0 0 0);" class="font-weight-medium  text-white mt-4 fs-3 fs-xl-3 fs-lg-3 fs-md-3 fs-xs-3 fs-sm-3">Mais gestão de risco e controle financeiro <br> <span class="text-success">na sua Entidade Mutualista.</span></h1>
               <p class="lead mt-3 text-white fs-1 text-center">Transformando dados em informação de forma a proporcionar 
               melhores tomadas de decisões<br class="d-none d-sm-block d-lg-none d-xl-block">
               </p>
