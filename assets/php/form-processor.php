@@ -8,7 +8,7 @@
 		$to 		= 'gabriela.guimaraes@brasilatuarial.com.br'; ; //$_POST['to'];
 		unset($_POST['to']);
 
-		$from		= "contato@brasilbeneficios.club";
+		$from		= "contato@brasilatuarial.com.br";
 		$name		= "Brasil Benefícios";
 		$subject	= "Nova mensagem | Clube Brasil Benefícios LP";
 		// $reCaptchaSecret = "6Lck1FAUAAAAAH3Y3wOtFAx5IjS2z_MD5WpNl4P9";
