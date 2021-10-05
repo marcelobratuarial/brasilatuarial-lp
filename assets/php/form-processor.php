@@ -134,7 +134,7 @@
 				Erro ao enviar mensagem. Tente novamente.
 			</div>';
 	   	}
-
+		   var_dump(error_get_last()['message']);
 
 
 	} else {
