@@ -8,7 +8,7 @@
 		// $to 		= 'gabriela.guimaraes@brasilatuarial.com.br'; ; //$_POST['to'];
 		unset($_POST['to']);
 
-		$from		= "contato@brasilatuarial.com.br";
+		$from		= "contato@bplink.com.br";
 		$name		= "Brasil Atuarial";
 		$subject	= "Nova mensagem | Brasil Atuarial LP";
 		// $reCaptchaSecret = "6Lck1FAUAAAAAH3Y3wOtFAx5IjS2z_MD5WpNl4P9";
@@ -120,8 +120,8 @@
 	   	$headers .= ( ! EMAIL_HTML) ? 'Content-type: text;' . HEADER_TRAIL : 'Content-type: text/html; charset=utf-8' . HEADER_TRAIL ;
 
 	   	// Additional headers
-	   	$headers .= "From: Brasil Benefícios LP <".$from.">" . HEADER_TRAIL;
-	   	$headers .= "Bcc: bb@agenciabrasildigital.com.br" . HEADER_TRAIL;
+	   	$headers .= "From: Brasil Atuarial LP <".$from.">" . HEADER_TRAIL;
+	   	// $headers .= "Bcc: bb@agenciabrasildigital.com.br" . HEADER_TRAIL;
 	   //	$headers .= "Bcc: marcelodmdo@gmail.com" . HEADER_TRAIL;
 	   //	$headers .= "From: ".$name." <".$from.">" . HEADER_TRAIL;
 
