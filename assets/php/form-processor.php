@@ -88,6 +88,7 @@
           '{mensagem}' => $_POST['message'],
         );
         $message = strtr($str_template, $ref);
+		$message = str_replace("\n.", "\n..", $message);
         /*
 		$message = "";
 		foreach ($_POST as $field => $data){
