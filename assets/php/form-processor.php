@@ -4,13 +4,13 @@
 
 	if ( array_key_exists('to', $_POST) || true ){
 
-// 		$to 		= 'marcelo@agenciabrasildigital.com.br' ; //$_POST['to'];
-		$to 		= 'gabriela.guimaraes@brasilatuarial.com.br'; ; //$_POST['to'];
+		$to 		= 'marcelo@agenciabrasildigital.com.br' ; //$_POST['to'];
+		// $to 		= 'gabriela.guimaraes@brasilatuarial.com.br'; ; //$_POST['to'];
 		unset($_POST['to']);
 
 		$from		= "contato@brasilatuarial.com.br";
-		$name		= "Brasil Benefícios";
-		$subject	= "Nova mensagem | Clube Brasil Benefícios LP";
+		$name		= "Brasil Atuarial";
+		$subject	= "Nova mensagem | Brasil Atuarial LP";
 		// $reCaptchaSecret = "6Lck1FAUAAAAAH3Y3wOtFAx5IjS2z_MD5WpNl4P9";
 
 
