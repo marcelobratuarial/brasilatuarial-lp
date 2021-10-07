@@ -862,7 +862,7 @@
                     <div class="row">
                       <div class="col-md-6 mb-4 mb-xl-0">
                         <h4>Fale conosco</h4>
-                        <p class="mt-3 mb-0">Como podemos te ajudar a levar mais benefícios para seus associados? Estamos aqui para te ajudar nessa jornada e temos certeza que traremos a você a melhor solução nas linhas de Carro, Casa e Vida.</p>
+                        <p class="mt-3 mb-0">Estamos à disposição e motivados para contribuir para uma melhor gestão financeira, estratégica, atuarial e de risco na sua entidade.</p>
                         <div class="row">
                           <div class="col-11">
                             <hr class="my-4" />
@@ -947,7 +947,7 @@
                       </div>
                       <div class="col-md-6 mb-4 mb-lg-0">
                         <h4>Deixe-nos seus dados</h4>
-                        <p>Retornaremos ao contato apresentando nossas soluções de benefícios.</p>
+                        <p>Retornaremos o contato apresentando nossas soluções em consultoria atuarial.</p>
                         <form class="zform">
                            <!--<input type="hidden" name="to" value="gabriela.guimaraes@brasilatuarial.com.br" /> -->
                           <!--<input type="hidden" name="to" value="marcelo@agenciabrasildigital.com.br" />-->
