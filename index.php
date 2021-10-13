@@ -254,7 +254,8 @@
               <!--/.bg-holder-->
 
               <div class="sidebar-item">
-                <img class="mb-2 mb-lg-3 nav-icon" src="assets/img/lineicons/favorites.svg" alt="">
+                <!-- <img class="mb-2 mb-lg-3 nav-icon" src="assets/img/lineicons/favorites.svg" alt=""> -->
+                <img class="mb-2 mb-lg-3 nav-icon" src="assets/img/icons/gestao-risco.svg" alt="">
                 <h2 class="font-weight-light text-white fs-1 fs-xl-2 fs-xxl-3">Gestão de Risco</h2>
               </div>
             </div>
@@ -264,7 +265,7 @@
               <!--/.bg-holder-->
 
               <div class="sidebar-item">
-                <img class="mb-2 mb-lg-3 nav-icon" src="assets/img/lineicons/suitcase.svg" alt="">
+                <img class="mb-2 mb-lg-3 nav-icon" src="assets/img/icons/gestao-financeira.svg" alt="">
                 <h2 class="font-weight-light text-white fs-1 fs-xl-2 fs-xxl-3">Gestão Financeira</h2>
               </div>
             </div>
@@ -274,7 +275,7 @@
               <!--/.bg-holder-->
 
               <div class="sidebar-item">
-                <img class="mb-2 mb-lg-3 nav-icon" src="assets/img/lineicons/heart.svg" alt="">
+                <img class="mb-2 mb-lg-3 nav-icon" src="assets/img/icons/gestao-estrategica.svg" alt="">
                 <h2 class="font-weight-light text-white fs-1 fs-xl-2 fs-xxl-3">Gestão Estratégica</h2>
               </div>
             </div>
@@ -295,7 +296,7 @@
                 <!--/.bg-holder-->
 
                 <div class="sidebar-item">
-                  <img class="mb-2 mb-lg-3 nav-icon" src="assets/img/lineicons/placeholder.svg" alt="">
+                  <img class="mb-2 mb-lg-3 nav-icon" src="assets/img/icons/avaliacao-atuarial.svg" alt="">
                   <h2 class="font-weight-light text-white fs-1 fs-xl-2 fs-xxl-3">Contact</h2>
                 </div>
               </div>
