@@ -285,7 +285,7 @@
               <!--/.bg-holder-->
 
               <div class="sidebar-item">
-                <img class="mb-2 mb-lg-3 nav-icon" src="assets/img/lineicons/placeholder.svg" alt="">
+                <img class="mb-2 mb-lg-3 nav-icon" src="assets/img/icons/avaliacao-atuarial.svg" alt="">
                 <h2 class="font-weight-light text-white fs-1 fs-xl-2 fs-xxl-3">Avaliação Atuarial</h2>
               </div>
             </div>
@@ -296,7 +296,7 @@
                 <!--/.bg-holder-->
 
                 <div class="sidebar-item">
-                  <img class="mb-2 mb-lg-3 nav-icon" src="assets/img/icons/avaliacao-atuarial.svg" alt="">
+                  <img class="mb-2 mb-lg-3 nav-icon" src="assets/img/lineicons/placeholder.svg" alt="">
                   <h2 class="font-weight-light text-white fs-1 fs-xl-2 fs-xxl-3">Contact</h2>
                 </div>
               </div>
