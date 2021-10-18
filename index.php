@@ -192,7 +192,7 @@
 
 <body>
 <?php
-  $bal = file_get_contents("content-brasil-atuarial.json");
+  $bal = file_get_contents("content-brasil-atuarial-ben.json");
   $items = json_decode($bal, false); 
   
 ?>
@@ -290,7 +290,7 @@
               </div>
             </div>
 
-            <div class="col-12 minh-25vh sidebar-item-wrapper py-5 py-sm-0" data-content="contact">
+            <div class="d-none col-12 minh-25vh sidebar-item-wrapper py-5 py-sm-0" data-content="contact">
                 <div class="bg-holder" style="background-image:url(assets/img/navigation/contact.jpg);background-position: 0 25%;">
                 </div>
                 <!--/.bg-holder-->

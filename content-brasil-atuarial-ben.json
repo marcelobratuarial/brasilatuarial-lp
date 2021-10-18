@@ -1,0 +1,59 @@
+[
+    {
+        "bgcolor": "#1BBC9B",
+        "icon": "assistencia-24h.png",
+        "bgimage": "assistencia-24h-min.webp",
+        "title": "Gestão de Risco",
+        "content": "Seu associado solicita com agilidade e segurança todos os serviços de assistência 24h oferecidos pela Brasil Benefícios. O atendimento é realizado por centenas de prestadores, em todo território nacional.",
+        "vantagens": [
+            "Ampla variedade de serviços como reboque, troca de pneus, auxílio emergencial e muitos outros",
+            "Assistência em qualquer lugar do Brasil",
+            "Agilidade no atendimento",
+            "Mais credibilidade para a sua entidade"
+        ]
+    },
+    {
+        "bgcolor": "#2DCC70",
+        "icon": "carro-reserva.png",
+        "bgimage": "carro-reserva-min.webp",
+        "title": "Gestão Financeira",
+        "content": "Com o nosso serviço de Carro Reserva você proporciona muito mais segurança  e praticidade aos seus associados. O produto é disponível para veículos de passeio e utilitário, e três planos são disponibilizados: 7, 15 ou 30 dias. Trabalhamos com a Localiza Rent a Car, a maior rede brasileira de lojas especializadas em aluguel de carros.",
+        "vantagens": [
+            "Parceiro de confiaça",
+            "Mais credibilidade para sua entidade",
+            "Comodidade para os seus associados",
+            "Veículos de qualidade",
+            "Atendimento ágil",
+            "Uso personalizado",
+            "Conforto ao substituir o veículo sem custos adicionais"
+        ]
+    },
+    {
+        "bgcolor": "#3598DB",
+        "icon": "vidro.png",
+        "bgimage": "vidros-min.webp",
+        "title": "Gestão Estratégica",
+        "content": "Aqui seu associado possui a comodidade para a troca de vidros com qualidade, melhor preço e assistência. Possuímos cobertura BÁSICA, COMPLETA E PLUS, para quatro tipos de veículo: “Passeio Nacional”, “Passeio Importado”, “Van” e “Caminhão”. Somos parceiros da Autoglass e das melhores redes credenciadas do Brasil.",
+        "vantagens": [
+            "Parceiros de confiança",
+            "Agilidade no atendimento",
+            "Serviços qualificados",
+            "Ampla cobertura",
+            "Melhor custo-benefício"
+        ]
+    },
+    {
+        "bgcolor": "#9A59B5",
+        "icon": "app.png",
+        "bgimage": "app-min.webp",
+        "title": "Avaliação Atuarial",
+        "content": "O objetivo do produto Acidentes Pessoais de Passageiros – APP é resguardar o seu associado e os passageiros do veículo de possíveis acidentes que eles venham a sofrer e os impeçam de continuar suas atividades de trabalho. O seguro APP tem cobertura para morte por acidente, invalidez, despesas médicas e diárias de internação.",
+        "vantagens": [
+            "Contratação simplificada",
+            "Segurança para o seu cliente",
+            "Garantia financeira",
+            "Custo acessível"
+        ]
+    }
+]
+
