@@ -31,17 +31,18 @@
   <!--<meta name="theme-color" content="#ffffff">-->
 
 
-  <link href="assets/lib/prismjs/prism.css" rel="stylesheet">
-  <link href="assets/lib/loaders.css/loaders.min.css" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css?family=Raleway:100,300,400,500,700" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
-  <link href="assets/lib/remodal/remodal.css" rel="stylesheet">
-  <link href="assets/lib/remodal/remodal-default-theme.css" rel="stylesheet">
-  <link href="assets/lib/owl.carousel/owl.carousel.css" rel="stylesheet">
-  <link href="assets/lib/lightbox2/css/lightbox.css" rel="stylesheet">
-  <link href="assets/lib/semantic-ui-accordion/accordion.min.css" rel="stylesheet">
-  <link href="assets/lib/semantic-ui-transition/transition.min.css" rel="stylesheet">
-  <link href="assets/css/theme.css" rel="stylesheet">
+  <link rel="preload" as="style" data-href="assets/lib/prismjs/prism.css">
+  <link rel="preload" as="style" data-href="assets/lib/loaders.css/loaders.min.css">
+  <link rel="preload" as="style" data-href="https://fonts.googleapis.com/css?family=Raleway:100,300,400,500,700">
+  <link rel="preload" as="style" data-href="https://fonts.googleapis.com/css?family=Source+Sans+Pro">
+  <link rel="preload" as="style" data-href="assets/lib/remodal/remodal.css">
+  <link rel="preload" as="style" data-href="assets/lib/remodal/remodal-default-theme.css">
+  <!-- <link href="assets/lib/owl.carousel/owl.carousel.css" rel="stylesheet"> -->
+  <link rel="preload" as="style" data-href="assets/lib/lightbox2/css/lightbox.css">
+  <link rel="preload" as="style" data-href="assets/lib/semantic-ui-accordion/accordion.min.css">
+  <link rel="preload" as="style" data-href="assets/lib/semantic-ui-transition/transition.min.css">
+  <link rel="preload" as="style" data-href="assets/css/theme.css">
+  <!-- <link rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'" href="assets/css/theme.css"> -->
   <style>
     .rotateme {
       -webkit-animation-name: rotateme;
@@ -192,8 +193,13 @@
 
 <body>
 <?php
+<<<<<<< Updated upstream
   $bal = file_get_contents("content-brasil-atuarial-ben.json");
   $items = json_decode($bal, false); 
+=======
+  // $bal = file_get_contents("content-brasil-atuarial-ben.json");
+  // $items = json_decode($bal, false); 
+>>>>>>> Stashed changes
   
 ?>
   <main>
@@ -206,7 +212,7 @@
 
      <!--? Preloader Start -->
       <div id="preloader-active">
-          <div class="preloader d-flex align-items-center justify-content-center">
+          <div class="preloader" style="display: flex; justify-content: center;align-items: center;">
               <div class="preloader-inner position-relative">
                   <div class="preloader-circle"></div>
                   <div class="preloader-img pere-text">
@@ -236,7 +242,7 @@
                   <a class="btn btn-outline-light mr-3" href="#contact">Get a quote</a>
                   <a class="btn btn-link text-white mt-3 mt-sm-0 pl-0" href="#portfolio">See works<span class="ml-2 fas fa-chevron-right"></span></a>
                 </div> -->
-              <img class="the-logo w-75 w-sm-60" src="assets/img/logo-prata.png" alt="">
+              <img class="the-logo w-75 w-sm-60" src="assets/img/logo-prata-min.png" alt="">
               <h1 style="text-shadow: 2px 2px 1px rgb(0 0 0);" class="font-weight-medium  text-white mt-4 fs-3 fs-xl-3 fs-lg-3 fs-md-3 fs-xs-3 fs-sm-3">Mais gestão de risco e controle financeiro <br> <span class="text-success">na sua Entidade Mutualista.</span></h1>
               <p class="lead mt-3 text-white fs-1 text-center">Transformando dados em informação de forma a proporcionar 
               melhores tomadas de decisões<br class="d-none d-sm-block d-lg-none d-xl-block">
@@ -249,49 +255,69 @@
         <div class="position-relative w-sm-50 position-sm-fixed four-item-one-column" id="gridNav">
           <div class="row h-lg-100vh">
             <div class="col-12 minh-25vh sidebar-item-wrapper py-5 py-sm-0" data-content="gestao-risco">
-              <div class="bg-holder" style="background-image:url(assets/img/navigation/about.jpg);background-position: 0 37%;">
+              <div class="bg-holder lazy" data-background="assets/img/navigation/about-min.webp" style=";background-position: 0 37%;">
               </div>
               <!--/.bg-holder-->
 
               <div class="sidebar-item">
                 <!-- <img class="mb-2 mb-lg-3 nav-icon" src="assets/img/lineicons/favorites.svg" alt=""> -->
+<<<<<<< Updated upstream
                 <img class="mb-2 mb-lg-3 nav-icon" src="assets/img/icons/gestao-risco.svg" alt="">
+=======
+                <img class="mb-2 mb-lg-3 nav-icon" class="lazy" data-src="assets/img/icons/gestao-risco.svg" alt="">
+>>>>>>> Stashed changes
                 <h2 class="font-weight-light text-white fs-1 fs-xl-2 fs-xxl-3">Gestão de Risco</h2>
               </div>
             </div>
             <div class="col-12 minh-25vh sidebar-item-wrapper py-5 py-sm-0" data-content="gestao-financeira">
-              <div class="bg-holder" style="background-image:url(assets/img/navigation/service.jpg);background-position: 0 33%;">
+              <div class="bg-holder lazy" data-background="assets/img/navigation/service-min.webp" style="background-position: 0 33%;">
               </div>
               <!--/.bg-holder-->
 
               <div class="sidebar-item">
+<<<<<<< Updated upstream
                 <img class="mb-2 mb-lg-3 nav-icon" src="assets/img/icons/gestao-financeira.svg" alt="">
+=======
+                <img class="mb-2 mb-lg-3 nav-icon" class="lazy" data-src="assets/img/icons/gestao-financeira.svg" alt="">
+>>>>>>> Stashed changes
                 <h2 class="font-weight-light text-white fs-1 fs-xl-2 fs-xxl-3">Gestão Financeira</h2>
               </div>
             </div>
             <div class="col-12 minh-25vh sidebar-item-wrapper py-5 py-sm-0" data-content="gestao-estrategica">
-              <div class="bg-holder" style="background-image:url(assets/img/navigation/portfolio.jpg);background-position: 0 20%;">
+              <div class="bg-holder lazy" data-background="assets/img/navigation/portfolio-min.webp" style="background-position: 0 20%;">
               </div>
               <!--/.bg-holder-->
 
               <div class="sidebar-item">
+<<<<<<< Updated upstream
                 <img class="mb-2 mb-lg-3 nav-icon" src="assets/img/icons/gestao-estrategica.svg" alt="">
+=======
+                <img class="mb-2 mb-lg-3 nav-icon" class="lazy" data-src="assets/img/icons/gestao-estrategica.svg" alt="">
+>>>>>>> Stashed changes
                 <h2 class="font-weight-light text-white fs-1 fs-xl-2 fs-xxl-3">Gestão Estratégica</h2>
               </div>
             </div>
             <div class="col-12 minh-25vh sidebar-item-wrapper py-5 py-sm-0" data-content="avaliacao-atuarial">
-              <div class="bg-holder" style="background-image:url(assets/img/navigation/contact.jpg);background-position: 0 25%;">
+              <div class="bg-holder lazy" data-background="assets/img/navigation/contact-min.webp" style="background-position: 0 25%;">
               </div>
               <!--/.bg-holder-->
 
               <div class="sidebar-item">
+<<<<<<< Updated upstream
                 <img class="mb-2 mb-lg-3 nav-icon" src="assets/img/icons/avaliacao-atuarial.svg" alt="">
+=======
+                <img class="mb-2 mb-lg-3 nav-icon" class="lazy" data-src="assets/img/icons/avaliacao-atuarial.svg" alt="">
+>>>>>>> Stashed changes
                 <h2 class="font-weight-light text-white fs-1 fs-xl-2 fs-xxl-3">Avaliação Atuarial</h2>
               </div>
             </div>
 
             <div class="d-none col-12 minh-25vh sidebar-item-wrapper py-5 py-sm-0" data-content="contact">
+<<<<<<< Updated upstream
                 <div class="bg-holder" style="background-image:url(assets/img/navigation/contact.jpg);background-position: 0 25%;">
+=======
+                <div class="bg-holder lazy" data-background="assets/img/navigation/contact-min.webp" style="background-position: 0 25%;">
+>>>>>>> Stashed changes
                 </div>
                 <!--/.bg-holder-->
 
@@ -328,7 +354,7 @@
                   </div>
                   <div class="row">
                     <div class="col-md-6 mb-4 mb-md-0">
-                      <div class="bg-holder position-relative rounded py-8 py-md-0" style="background-image:url(assets/img/infinity.jpg);">
+                      <div class="bg-holder position-relative rounded py-8 py-md-0 lazy" data-background="assets/img/infinity.webp" style="">
                       </div>
                       <!--/.bg-holder-->
 
@@ -485,7 +511,7 @@
 
 
           <footer class="page-footer">
-            <div class="bg-holder" style="background-image:url(assets/img/sidebars/about.jpg);background-position: 0 27%; transform: scale(1.1);">
+            <div class="bg-holder lazy" data-background="assets/img/sidebars/about-min.webp" style="background-position: 0 27%; transform: scale(1.1);">
             </div>
             <!--/.bg-holder-->
 
@@ -508,7 +534,7 @@
         </div>
         <div class="col-lg-3 col-12 t-0 order-0 order-lg-1 position-absolute position-sm-relative">
           <div class="h-lg-100vh sticky-top py-4 sticky-area"><span class="btn-close"><img class="d-none d-lg-block times" src="assets/img/times.svg" width="25" alt="" /><img class="d-lg-none" src="assets/img/times-black.svg" width="18" alt="" /></span>
-            <div class="bg-holder" style="background-image:url(assets/img/sidebars/about.jpg);">
+            <div class="bg-holder lazy" data-background="assets/img/sidebars/about-min.webp" style="">
             </div>
             <!--/.bg-holder-->
 
@@ -535,7 +561,7 @@
                   </div>
                   <div class="row">
                     <div class="col-md-6 mb-4 mb-md-0">
-                      <div class="bg-holder position-relative rounded py-8 py-md-0" style="background-image:url(assets/img/infinity.jpg);">
+                      <div class="bg-holder position-relative rounded py-8 py-md-0 lazy" data-background="assets/img/infinity.webp" style="">
                       </div>
                       <!--/.bg-holder-->
 
@@ -706,7 +732,7 @@
 
 
           <footer class="page-footer">
-            <div class="bg-holder" style="background-image:url(assets/img/sidebars/service.jpg);background-position: 0 41%; transform: scale(1.1);">
+            <div class="bg-holder lazy" data-background="assets/img/sidebars/service-min.webp" style="background-position: 0 41%; transform: scale(1.1);">
             </div>
             <!--/.bg-holder-->
 
@@ -729,7 +755,7 @@
         </div>
         <div class="col-lg-3 col-12 t-0 order-0 order-lg-1 position-absolute position-sm-relative">
           <div class="h-lg-100vh sticky-top py-4 sticky-area"><span class="btn-close"><img class="d-none d-lg-block times" src="assets/img/times.svg" width="25" alt="" /><img class="d-lg-none" src="assets/img/times-black.svg" width="18" alt="" /></span>
-            <div class="bg-holder" style="background-image:url(assets/img/sidebars/service.jpg);">
+            <div class="bg-holder lazy" data-background="assets/img/sidebars/service-min.webp" style="">
             </div>
             <!--/.bg-holder-->
 
@@ -756,7 +782,7 @@
                   </div>
                   <div class="row">
                     <div class="col-md-6 mb-4 mb-md-0">
-                      <div class="bg-holder position-relative rounded py-8 py-md-0" style="background-image:url(assets/img/infinity.jpg);">
+                      <div class="bg-holder position-relative rounded py-8 py-md-0 lazy" data-background="assets/img/infinity.webp" style="">
                       </div>
                       <!--/.bg-holder-->
 
@@ -811,7 +837,7 @@
 
 
           <footer class="page-footer">
-            <div class="bg-holder" style="background-image:url(assets/img/sidebars/portfolio.jpg);background-position: 0 27%; transform: scale(1.1);">
+            <div class="bg-holder lazy" data-background="assets/img/sidebars/portfolio-min.webp" style="background-position: 0 27%; transform: scale(1.1);">
             </div>
             <!--/.bg-holder-->
 
@@ -834,7 +860,7 @@
         </div>
         <div class="col-lg-3 col-12 t-0 order-0 order-lg-1 position-absolute position-sm-relative">
           <div class="h-lg-100vh sticky-top py-4 sticky-area"><span class="btn-close"><img class="d-none d-lg-block times" src="assets/img/times.svg" width="25" alt="" /><img class="d-lg-none" src="assets/img/times-black.svg" width="18" alt="" /></span>
-            <div class="bg-holder" style="background-image:url(assets/img/sidebars/portfolio.jpg);">
+            <div class="bg-holder lazy" data-background="assets/img/sidebars/portfolio-min.webp" style="">
             </div>
             <!--/.bg-holder-->
 
@@ -861,7 +887,7 @@
                   </div>
                   <div class="row">
                     <div class="col-md-6 mb-4 mb-md-0">
-                      <div class="bg-holder position-relative rounded py-8 py-md-0" style="background-image:url(assets/img/infinity.jpg);">
+                      <div class="bg-holder position-relative rounded py-8 py-md-0 lazy" data-background="assets/img/infinity.webp" style="">
                       </div>
                       <!--/.bg-holder-->
 
@@ -956,7 +982,7 @@
 
 
           <footer class="page-footer">
-            <div class="bg-holder" style="background-image:url(assets/img/sidebars/contact.jpg);background-position: 0 37%; transform: scale(1.1);">
+            <div class="bg-holder lazy" data-background="assets/img/sidebars/contact-min.webp" style="background-position: 0 37%; transform: scale(1.1);">
             </div>
             <!--/.bg-holder-->
 
@@ -979,7 +1005,7 @@
         </div>
         <div class="col-lg-3 col-12 t-0 order-0 order-lg-1 position-absolute position-sm-relative">
           <div class="h-lg-100vh sticky-top py-4 sticky-area"><span class="btn-close"><img class="d-none d-lg-block times" src="assets/img/times.svg" width="25" alt="" /><img class="d-lg-none" src="assets/img/times-black.svg" width="18" alt="" /></span>
-            <div class="bg-holder" style="background-image:url(assets/img/sidebars/contact.jpg);">
+            <div class="bg-holder lazy" data-background="assets/img/sidebars/contact-min.webp" style="">
             </div>
             <!--/.bg-holder-->
 
@@ -1166,7 +1192,7 @@
           </div>
           <div class="col-lg-3 col-12 t-0 order-0 order-lg-1 position-absolute position-lg-relative">
             <div class="h-lg-100vh sticky-top py-4 sticky-area"><span class="btn-close"><img class="d-none d-lg-block times" src="assets/img/times.svg" width="25" alt=""/><img class="d-lg-none" src="assets/img/times-black.svg" width="18" alt=""/></span>
-              <div class="bg-holder" style="background-image:url(assets/img/sidebars/contact.jpg);">
+              <div class="bg-holder lazy" data-background="assets/img/sidebars/contact-min.webp" style="">
               </div>
               <!--/.bg-holder-->
 
@@ -1186,7 +1212,7 @@
   <script src="assets/js/stickyfill.min.js"></script>
   <script src="assets/lib/remodal/remodal.js"></script>
   <script src="assets/lib/jtap/jquery.tap.js"></script>
-  <script src="https://www.google.com/recaptcha/api.js"></script>
+  <!-- <script src="https://www.google.com/recaptcha/api.js"></script> -->
   <script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=es6,Array.prototype.includes,CustomEvent,Object.entries,Object.values,URL"></script>
   <script src="assets/lib/owl.carousel/owl.carousel.js"></script>
   <script src="assets/lib/isotope-layout/isotope.pkgd.min.js"></script>
@@ -1197,16 +1223,87 @@
   <script src="assets/lib/prismjs/prism.js"></script>
   <script src="assets/js/stickyfill.min.js"></script>
   <script src="assets/lib/sticky-kit/sticky-kit.min.js"></script>
-  <script src="assets/js/theme.js?<?= time() ?>"></script>
+  <script src="assets/js/theme.js"></script>
   <script src="assets/js/jquery.mask.min.js"></script>
-  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyARdVcREeBK44lIWnv5-iPijKqvlSAVwbw&callback=initMap" async></script>
+  <!-- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyARdVcREeBK44lIWnv5-iPijKqvlSAVwbw&callback=initMap" async></script> -->
   <script>
+
+    $(document).ready(function() {
+      
+      setTimeout(() => {
+        $.each($("link[rel=preload]"), function(a,b) {
+          // console.log(a)
+          console.log(b)
+          $(b)
+          .attr("href", $(b).data("href"))
+          .attr("rel", "stylesheet")
+        })
+        // $("link[rel=preload]")
+        // .attr("href", $("link[rel=preload]").data("href"))
+        // .attr("rel", "stylesheet")
+      }, 500);
+      // console.log($("link[rel=preload]"))
+    })
+
+    document.addEventListener("DOMContentLoaded", function() {
+      var lazyBgImages = [].slice.call(document.querySelectorAll("div.lazy"));
+
+      if ("IntersectionObserver" in window) {
+        let lazyBgImageObserver = new IntersectionObserver(function(entries, observer) {
+          entries.forEach(function(entry) {
+            if (entry.isIntersecting) {
+              let lazyBgImage = entry.target;
+
+              lazyBgImage.style.backgroundImage = "url('"+lazyBgImage.dataset.background+"')";
+              lazyBgImage.src = lazyBgImage.dataset.background
+              // lazyBgImage.src = lazyBgImage.dataset.src;
+              // lazyBgImage.srcset = lazyBgImage.dataset.srcset;
+              lazyBgImage.classList.remove("lazy");
+              lazyBgImageObserver.unobserve(lazyBgImage);
+            }
+          });
+        });
+
+        lazyBgImages.forEach(function(lazyBgImage) {
+          console.log("loaded")
+          lazyBgImageObserver.observe(lazyBgImage);
+        });
+      } else {
+        // Possibly fall back to event handlers here
+      }
+    });
+    document.addEventListener("DOMContentLoaded", function() {
+      var lazyImages = [].slice.call(document.querySelectorAll("img.lazy"));
+
+      if ("IntersectionObserver" in window) {
+        let lazyImageObserver = new IntersectionObserver(function(entries, observer) {
+          entries.forEach(function(entry) {
+            if (entry.isIntersecting) {
+              let lazyImage = entry.target;
+              lazyImage.src = lazyImage.dataset.src;
+              lazyImage.srcset = lazyImage.dataset.srcset;
+              lazyImage.classList.remove("lazy");
+              lazyImageObserver.unobserve(lazyImage);
+            }
+          });
+        });
+
+        lazyImages.forEach(function(lazyImage) {
+          lazyImageObserver.observe(lazyImage);
+        });
+      } else {
+        // Possibly fall back to event handlers here
+      }
+    });
     /* 1. Proloder */
     $(window).on('load', function () {
-      $('#preloader-active').delay(450).fadeOut('slow');
-      $('body').delay(450).css({
-        'overflow': 'visible'
-      });
+      setTimeout(() => {
+        $('#preloader-active').delay(450).fadeOut('slow');
+        $('body').delay(450).css({
+          'overflow': 'visible'
+        });  
+      }, 550);
+      
     });
     var SPMaskBehavior = function(val) {
         return val.replace(/\D/g, '').length === 11 ? '(00) 00000-0000' : '(00) 0000-00009';

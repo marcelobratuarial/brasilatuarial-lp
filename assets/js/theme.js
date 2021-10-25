@@ -1655,7 +1655,7 @@ spUtils.$document.ready(function () {
 /*-----------------------------------------------
 |   YTPlayer
 -----------------------------------------------*/
-
+/*
 spUtils.$document.ready(function () {
   var Selector = {
     BG_YOUTUBE: '.bg-youtube',
@@ -1679,4 +1679,4 @@ spUtils.$document.ready(function () {
       $this.YTPlayer();
     });
   }
-});
+}); */
